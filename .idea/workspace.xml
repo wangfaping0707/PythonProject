@@ -7,10 +7,7 @@
     <bookmark url="file://$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator6_demo.py" line="17" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffd29e1e-b03d-447d-b216-8a7355965824" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ffd29e1e-b03d-447d-b216-8a7355965824" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$demo5_5_4.coverage" NAME="demo5.5.4 Coverage Results" MODIFIED="1589976617994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter5" />
     <SUITE FILE_PATH="coverage/PythonProject$demo6_4_3.coverage" NAME="demo6.4.3 Coverage Results" MODIFIED="1590587102378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter6" />
     <SUITE FILE_PATH="coverage/PythonProject$decorator5_demo.coverage" NAME="decorator5_demo Coverage Results" MODIFIED="1607266090530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo" />
-    <SUITE FILE_PATH="coverage/PythonProject$StudyDay21_demo.coverage" NAME="StudyDay21_demo Coverage Results" MODIFIED="1608453833664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rfresh_Python/chapter4_demo" />
+    <SUITE FILE_PATH="coverage/PythonProject$StudyDay21_demo.coverage" NAME="StudyDay21_demo Coverage Results" MODIFIED="1608454391086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rfresh_Python/chapter4_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$StudyDay15_demo.coverage" NAME="StudyDay15_demo Coverage Results" MODIFIED="1606291440001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rfresh_Python/chapter3_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$StudyDay6_demo.coverage" NAME="StudyDay6_demo Coverage Results" MODIFIED="1605512251836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rfresh_Python/chapter3_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo5_7_1.coverage" NAME="demo5.7.1 Coverage Results" MODIFIED="1590156919330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter5" />
@@ -280,7 +277,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="F:/git_path/Git/bin/git.exe" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -542,31 +539,39 @@
       <workItem from="1607533523413" duration="544000" />
       <workItem from="1607841845269" duration="593000" />
       <workItem from="1608435746962" duration="1857000" />
-      <workItem from="1608453177647" duration="841000" />
+      <workItem from="1608453177647" duration="1435000" />
     </task>
+    <task id="LOCAL-00001" summary="1232">
+      <created>1608454060862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608454060862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286262000" />
+    <option name="totallyTimeSpent" value="286856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18230563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.36827195" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.36827195" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27439886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.42574257" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -600,6 +605,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1232" />
+    <option name="LAST_COMMIT_MESSAGE" value="1232" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/smart_python_demio/ex4.py">
