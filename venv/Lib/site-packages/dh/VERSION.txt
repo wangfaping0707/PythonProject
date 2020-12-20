@@ -1,0 +1,18 @@
+# !!! WARNING: DO NOT EDIT, DO NOT COMMIT THIS FILE !!!
+#
+# This file is used as place to store the exact 'git-describe' version number
+# when building or installing this package. The script 'version-setFromGit.sh'
+# writes the current version into this file. When the build or install scripts
+# from the 'scripts' dir are used, the version script is always called as first
+# step. So for builds (e.g. wheel builds) and non-develop installs, the version
+# number is always automatically set to the correct value.
+#
+# The only situation where you might want to call the version script manually
+# is when this package is installed in develop mode (i.e. something like a
+# symlink is created in the site-packages dir) and the 'dh.__version__'
+# variable should be up-to-date with the actual version.
+#
+# !!! WARNING: DO NOT EDIT, DO NOT COMMIT THIS FILE !!!
+
+0.13.1
+
