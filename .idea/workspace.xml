@@ -8,7 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd29e1e-b03d-447d-b216-8a7355965824" name="Default Changelist" comment="1232">
+      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/list_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +118,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$varible_name.coverage" NAME="varible_name Coverage Results" MODIFIED="1592750302298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter5" />
     <SUITE FILE_PATH="coverage/PythonProject$demo5_5_3.coverage" NAME="demo5.5.3 Coverage Results" MODIFIED="1589903299405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter5" />
     <SUITE FILE_PATH="coverage/PythonProject$demo2_1.coverage" NAME="demo2.1 Coverage Results" MODIFIED="1587480536160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter2" />
+    <SUITE FILE_PATH="coverage/PythonProject$list_test.coverage" NAME="list_test Coverage Results" MODIFIED="1610466452944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rfresh_Python/Import_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo2_4.coverage" NAME="demo2.4 Coverage Results" MODIFIED="1587653337109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter2" />
     <SUITE FILE_PATH="coverage/PythonProject$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1581337694990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com" />
     <SUITE FILE_PATH="coverage/PythonProject$demo7_2_3.coverage" NAME="demo7.2.3 Coverage Results" MODIFIED="1591967680930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter7" />
@@ -154,7 +159,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rfresh_Python/Import_demo/list_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,8 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basic_Python/chapter6/styedemo.py" />
-        <option value="$PROJECT_DIR$/Basic_Python/chapter6/styy_demo.py" />
         <option value="$PROJECT_DIR$/Basic_Python/chapter7/demo7.7.1.py" />
         <option value="$PROJECT_DIR$/Basic_Python/chapter7/demo7.7.2.py" />
         <option value="$PROJECT_DIR$/Basic_Python/chapter7/Student_Demo.py" />
@@ -224,7 +237,6 @@
         <option value="$PROJECT_DIR$/rfresh_Python/chapter3_demo/StudyDay18_demo.py" />
         <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay19_demo.py" />
         <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay20_demo.py" />
-        <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py" />
         <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay22_demo.py" />
         <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator1_demo.py" />
         <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator2_demo.py" />
@@ -233,6 +245,9 @@
         <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator5_demo.py" />
         <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator6_demo.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Basic_Python/chapter1/testfile.py" />
+        <option value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py" />
+        <option value="$PROJECT_DIR$/rfresh_Python/Import_demo/list_test.py" />
       </list>
     </option>
   </component>
@@ -265,12 +280,6 @@
               <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonProject" type="462c0819:PsiDirectoryNode" />
               <item name="rfresh_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="rfresh_Python" type="462c0819:PsiDirectoryNode" />
               <item name="Import_demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -284,7 +293,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="F:/git_path/Git/bin/git.exe" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -295,13 +304,13 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PythonProject\Basic_Python" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PythonProject\Basic_Python\chapter5\package_name" />
       <recent name="D:\PythonProject\Basic_Python\chapter4" />
       <recent name="D:\PythonProject\Basic_Python\chapter1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\Basic_Python" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StudyDay21_demo">
+  <component name="RunManager" selected="Python.list_test">
     <configuration name="StudyDay19_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -405,7 +414,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator6_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -413,12 +422,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rfresh_Python/Import_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator6_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rfresh_Python/Import_demo/list_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -428,19 +437,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.decorator6_demo" />
       <item itemvalue="Python.StudyDay22_demo" />
       <item itemvalue="Python.StudyDay19_demo" />
       <item itemvalue="Python.StudyDay21_demo" />
       <item itemvalue="Python.StudyDay7_demo" />
+      <item itemvalue="Python.list_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_test" />
         <item itemvalue="Python.StudyDay21_demo" />
         <item itemvalue="Python.StudyDay7_demo" />
         <item itemvalue="Python.StudyDay22_demo" />
         <item itemvalue="Python.StudyDay19_demo" />
-        <item itemvalue="Python.decorator6_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -548,6 +557,12 @@
       <workItem from="1608435746962" duration="1857000" />
       <workItem from="1608453177647" duration="1435000" />
       <workItem from="1608454643181" duration="648000" />
+      <workItem from="1608456297029" duration="2568000" />
+      <workItem from="1608564898837" duration="1384000" />
+      <workItem from="1609654125944" duration="1072000" />
+      <workItem from="1609863807348" duration="696000" />
+      <workItem from="1610259992514" duration="653000" />
+      <workItem from="1610464216381" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="1232">
       <created>1608454060862</created>
@@ -560,17 +575,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287504000" />
+    <option name="totallyTimeSpent" value="295093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17560321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.36827195" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3186969" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27439886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -579,7 +595,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.42574257" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.26487252" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -619,33 +635,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="1232" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/smart_python_demio/ex4.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter3_demo/Number_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter3_demo/StudyDay1_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter3_demo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter3_demo/StudyDay2_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter3_demo/StudyDay3_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -880,13 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator1_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2508">
@@ -936,10 +918,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay19_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="75">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic_Python/chapter1/testfile.py" />
+    <entry file="file://$PROJECT_DIR$/Basic_Python/chapter1/demo1.5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1965813376/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="5053" column="8" selection-start-line="5053" selection-start-column="8" selection-end-line="5053" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -950,10 +957,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay19_demo.py">
+    <entry file="file://$PROJECT_DIR$/rfresh_Python/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rfresh_Python/Import_demo/list_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="281">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
