@@ -12,6 +12,8 @@ class Person:
 
     def hellp(self):
         print("你好，这世界，我来了")
+
+
 foo = Person()
 bar = Person()
 
@@ -22,8 +24,5 @@ foo.greet()
 bar.greet()
 foo.hellp()
 
-
 foo.name = 'wry43'
 print(foo.name)
-
-

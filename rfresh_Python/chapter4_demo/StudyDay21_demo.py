@@ -24,5 +24,5 @@ def f1(func_name1, func_name2):
 f("test_name")
 f1("test_name1", "test_name2")
 
-str = "admin"
-str1 = str.replace()
+# str = "admin"
+# str1 = str.replace()

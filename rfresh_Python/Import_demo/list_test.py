@@ -25,3 +25,23 @@ for x in range(1,5)
             if y < 3
                 x*y
 """
+
+dict1 = {"name": "wuya", "age": 18, "sex": "male"}
+
+dict2 = dict1.copy()
+
+print("打印dict2：", dict2)
+
+list_test1=dict1.keys()
+
+print(list_test1)
+
+print(dict2.values())
+
+for key in dict1.keys():
+	print(key, ":", dict1.get(key))
+
+print(dict1.items())
+
+for key, value in dict2.items():
+	print(key, "->", value)
